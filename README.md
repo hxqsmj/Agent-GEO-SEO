@@ -53,14 +53,11 @@
 
 ---
 
-## 🏗️ 实战案例：嘉兴晨邦地坪官网 (jxnh.net)
+## 🏗️ 实战案例
 
-本理论已在真实商业项目中验证：
-- **124 页纯静态官网**，通过 JSON-LD (CaseStudy/Product/Service/Article/QAPage/HowTo) + llms.txt 实现全站结构化知识图谱
-- **三搜索引擎收录 + 主动推送**（Google Indexing API / Bing IndexNow / 百度 API），131 个 URL 已推送
-- **完整 Schema 跨模块引用**：Product ↔ Service ↔ CaseStudy ↔ QAPage 闭合知识网
-- **68 个工程案例 + 22 篇知识库文章 + 20 个 Geo QA 问答 + 8 个行业方案 + 5 个产品体系**
-- **零封禁风险**，全白帽合规流量增长
-
-🔗 网站：https://jxnh.net
-📞 电话：18606859158
+本理论已在真实商业项目中验证（工业地坪施工行业）：
+- 纯静态官网，通过 JSON-LD + llms.txt 实现全站结构化知识图谱
+- 三搜索引擎收录 + API 主动推送（Google / Bing / 百度）
+- 完整 Schema 跨模块引用：Product ↔ Service ↔ CaseStudy ↔ QAPage 闭合知识网
+- 涵盖工程案例、知识库、Geo QA、行业方案、产品体系等模块
+- 零封禁风险，全白帽合规流量增长
